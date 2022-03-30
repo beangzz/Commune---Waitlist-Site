@@ -8,6 +8,3 @@ Esse projeto foi retirado do  Codewell, disponível em: https://www.codewell.cc/
 Layout proposto:
 
 <img width="720" alt="Landing Page - Desktop View" src="https://user-images.githubusercontent.com/89169695/156661307-1b371511-b0e2-4dde-9dcb-ae45f10f71bd.png">
-
-Resultado final: https://beangzz.github.io/Commune-Waitlist-Site/
-
